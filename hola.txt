@@ -1,2 +1,6 @@
 "Hola, món!"
 
+<<<<<<< HEAD
+=======
+"Editat des de GitHub"
+>>>>>>> 8d9fb69c6046583ecccc16b68860647d3b7dfac6
